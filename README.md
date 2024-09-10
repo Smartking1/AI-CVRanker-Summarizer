@@ -1,6 +1,6 @@
 # CVRanker
 
-### Project Overview: Resume Ranking System
+### Project Overview: Resume Ranking and Summarization System
 
 This project is designed to automatically rank resumes based on their relevance to a given job description using **cosine similarity** of textual embeddings. The primary goal is to streamline the process of matching job descriptions to candidate resumes and providing an efficient way to assess and categorize resumes into levels of relevance (e.g., "Highly Recommended," "Average," or "Not Recommended").
 

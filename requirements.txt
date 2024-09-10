@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+transformers
+torch
+sentence-transformers
+spacy
+PyPDF2
+streamlit
+requests
+inflect
+nltk
+rake_nltk
+sentencepiece
